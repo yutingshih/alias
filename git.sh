@@ -13,4 +13,6 @@ alias gm='git merge'
 alias gp='git pull'
 alias gr='git remote -v'
 alias gs='git status'
+alias gt='git tag'
 alias gu='git restore'
+
